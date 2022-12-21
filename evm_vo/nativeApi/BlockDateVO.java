@@ -17,12 +17,12 @@ public class BlockDateVO {
     /*
     The block number
     */
-    Long block;
+    private Long block;
 
     /**
      * The timestamp of the block
      */
-    Long blockTimestamp;
+    private Long blockTimestamp;
 
     /**
      * The block hash
