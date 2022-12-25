@@ -1,4 +1,4 @@
-package club.edm.pojo.vo2.addressesTypes;
+package club.edm.pojo.stream_vo.addressesTypes;
 
 /**
  * @ClassName: UUID

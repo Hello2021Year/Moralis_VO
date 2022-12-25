@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.nativeApi;
+package club.edm.pojo.evm_vo.nativeApi;
 
 /**
  * @ClassName: BlockDateVO

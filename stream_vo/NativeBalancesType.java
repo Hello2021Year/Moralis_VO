@@ -1,4 +1,4 @@
-package club.edm.pojo.vo2;
+package club.edm.pojo.stream_vo;
 
 public enum NativeBalancesType {
 

@@ -1,6 +1,6 @@
-package club.edm.pojo.vo2.historyTypes;
+package club.edm.pojo.stream_vo.historyTypes;
 
-import club.edm.pojo.vo2.HistoryModel;
+import club.edm.pojo.stream_vo.HistoryModel;
 
 import java.util.List;
 

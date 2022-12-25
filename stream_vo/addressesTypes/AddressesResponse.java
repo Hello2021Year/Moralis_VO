@@ -1,7 +1,6 @@
-package club.edm.pojo.vo2.addressesTypes;
+package club.edm.pojo.stream_vo.addressesTypes;
 
-import club.edm.pojo.vo2.Address;
-import club.edm.pojo.vo2.HistoryModel;
+import club.edm.pojo.stream_vo.Address;
 
 import java.util.List;
 

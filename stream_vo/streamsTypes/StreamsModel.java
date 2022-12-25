@@ -1,7 +1,7 @@
-package club.edm.pojo.vo2.streamsTypes;
+package club.edm.pojo.stream_vo.streamsTypes;
 
-import club.edm.pojo.vo2.*;
-import club.edm.pojo.vo2.streamTypes.UUID;
+import club.edm.pojo.stream_vo.*;
+import club.edm.pojo.stream_vo.streamTypes.UUID;
 
 import java.util.List;
 
@@ -56,11 +56,11 @@ public class StreamsModel {
     /*
         Include native balances for each address in the webhook
      */
-    private List<club.edm.pojo.vo2.getNativeBalances> getNativeBalances;
+    private List<club.edm.pojo.stream_vo.getNativeBalances> getNativeBalances;
 
     private List<AbiItem> abi;
 
-    private List<club.edm.pojo.vo2.advancedOptions> advancedOptions;
+    private List<club.edm.pojo.stream_vo.advancedOptions> advancedOptions;
 
     private List<String> chainIds;
 

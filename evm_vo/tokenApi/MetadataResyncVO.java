@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.tokenApi;
+package club.edm.pojo.evm_vo.tokenApi;
 
 /**
  * @ClassName: MetadataResyncVO

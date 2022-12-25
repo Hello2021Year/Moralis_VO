@@ -1,6 +1,6 @@
-package club.edm.pojo.vo2.streamsTypes;
+package club.edm.pojo.stream_vo.streamsTypes;
 
-import club.edm.pojo.vo2.StreamsStatus;
+import club.edm.pojo.stream_vo.StreamsStatus;
 
 /**
  * @ClassName: StreamsStatusUpdate

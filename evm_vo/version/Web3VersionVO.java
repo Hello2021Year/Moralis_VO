@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.version;
+package club.edm.pojo.evm_vo.version;
 
 /**
  * @ClassName: Web3VersionVO

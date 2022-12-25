@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.storage;
+package club.edm.pojo.evm_vo.storage;
 
 /**
  * @ClassName: IPFSFilePathVO

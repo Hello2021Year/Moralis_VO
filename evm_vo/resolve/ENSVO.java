@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.resolve;
+package club.edm.pojo.evm_vo.resolve;
 
 /**
  * @ClassName: ENSVO

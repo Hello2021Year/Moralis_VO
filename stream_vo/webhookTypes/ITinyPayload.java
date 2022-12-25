@@ -1,4 +1,4 @@
-package club.edm.pojo.vo2.webhookTypes;
+package club.edm.pojo.stream_vo.webhookTypes;
 
 /**
  * @ClassName: ITinyPayload

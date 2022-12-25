@@ -1,6 +1,6 @@
-package club.edm.pojo.vo2.webhookTypes;
+package club.edm.pojo.stream_vo.webhookTypes;
 
-import club.edm.pojo.vo2.*;
+import club.edm.pojo.stream_vo.*;
 
 import java.util.List;
 

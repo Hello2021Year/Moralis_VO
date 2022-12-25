@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.contract;
+package club.edm.pojo.evm_vo.contract;
 
 /**
  * @ClassName: ContractSyncedVO

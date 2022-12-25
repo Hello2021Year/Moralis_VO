@@ -1,6 +1,6 @@
-package club.edm.pojo.vo2.settingsTypes;
+package club.edm.pojo.stream_vo.settingsTypes;
 
-import club.edm.pojo.vo2.SettingsRegion;
+import club.edm.pojo.stream_vo.SettingsRegion;
 
 /**
  * @ClassName: SettingsModel

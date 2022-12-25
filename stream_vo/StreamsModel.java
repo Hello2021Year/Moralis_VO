@@ -1,6 +1,6 @@
-package club.edm.pojo.vo2;
+package club.edm.pojo.stream_vo;
 
-import club.edm.pojo.vo2.streamTypes.UUID;
+import club.edm.pojo.stream_vo.streamTypes.UUID;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package club.edm.pojo.vo2.historyTypes;
+package club.edm.pojo.stream_vo.historyTypes;
 
 /**
  * @ClassName: UUID

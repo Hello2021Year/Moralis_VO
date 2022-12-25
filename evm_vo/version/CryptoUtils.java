@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.version;
+package club.edm.pojo.evm_vo.version;
 
 import org.web3j.crypto.*;
 import org.web3j.utils.Numeric;

@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.accountApi;
+package club.edm.pojo.evm_vo.accountApi;
 
 import java.util.List;
 

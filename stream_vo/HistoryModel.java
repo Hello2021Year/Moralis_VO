@@ -1,8 +1,8 @@
-package club.edm.pojo.vo2;
+package club.edm.pojo.stream_vo;
 
-import club.edm.pojo.vo2.history.WebhookTypesWebhook;
-import club.edm.pojo.vo2.webhookTypes.ITinyPayload;
-import club.edm.pojo.vo2.webhookTypes.IWebhookUnParsed;
+import club.edm.pojo.stream_vo.history.WebhookTypesWebhook;
+import club.edm.pojo.stream_vo.webhookTypes.ITinyPayload;
+import club.edm.pojo.stream_vo.webhookTypes.IWebhookUnParsed;
 
 /**
  * @ClassName: HistoryModel

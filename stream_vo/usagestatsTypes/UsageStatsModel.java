@@ -1,6 +1,6 @@
-package club.edm.pojo.vo2.usagestatsTypes;
+package club.edm.pojo.stream_vo.usagestatsTypes;
 
-import club.edm.pojo.vo2.UsageStatsStreams;
+import club.edm.pojo.stream_vo.UsageStatsStreams;
 
 import java.util.List;
 

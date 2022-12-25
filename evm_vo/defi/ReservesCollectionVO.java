@@ -1,4 +1,4 @@
-package club.edm.pojo.vo1.defi;
+package club.edm.pojo.evm_vo.defi;
 
 /**
  * @ClassName: ReservesCollectionVO
