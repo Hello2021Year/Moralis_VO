@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.nativeApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: BlockContentVO
  * @Description: The contents of a block
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.nativeApi;
  * @date: 2022/12/6 21:34
  **/
 
+@Data
 public class BlockContentVO {
 
      /**

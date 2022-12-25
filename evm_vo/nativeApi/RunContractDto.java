@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.nativeApi;
 
+import lombok.Data;
+
 import java.util.List;
 
 /**
@@ -9,6 +11,7 @@ import java.util.List;
  * @date: 2022/12/13 0:47
  **/
 
+@Data
 public class RunContractDto {
 
     /*

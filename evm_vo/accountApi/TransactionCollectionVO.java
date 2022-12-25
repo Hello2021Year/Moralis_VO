@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.accountApi;
 
+import lombok.Data;
+
 import java.util.List;
 
 /**
@@ -9,6 +11,7 @@ import java.util.List;
  * @date: 2022/12/6 23:25
  **/
 
+@Data
 public class TransactionCollectionVO {
 
     /**

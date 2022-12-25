@@ -1,6 +1,7 @@
 package club.edm.pojo.stream_vo.addressesTypes;
 
 import club.edm.pojo.stream_vo.Address;
+import lombok.Data;
 
 import java.util.List;
 
@@ -11,6 +12,7 @@ import java.util.List;
  * @date: 2022/12/22 0:25
  **/
 
+@Data
 public class AddressesResponse {
 
     /*
@@ -24,6 +26,5 @@ public class AddressesResponse {
     private float total;
 
     private List<Address> result;
-
 
 }

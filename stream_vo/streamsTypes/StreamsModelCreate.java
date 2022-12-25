@@ -2,6 +2,9 @@ package club.edm.pojo.stream_vo.streamsTypes;
 
 import club.edm.pojo.stream_vo.AbiItem;
 import club.edm.pojo.stream_vo.StreamTrigger;
+import club.edm.pojo.stream_vo.advancedOptions;
+import club.edm.pojo.stream_vo.getNativeBalances;
+import lombok.Data;
 
 import java.util.List;
 
@@ -12,6 +15,7 @@ import java.util.List;
  * @date: 2022/12/22 0:20
  **/
 
+@Data
 public class StreamsModelCreate {
 
     /*
@@ -56,11 +60,11 @@ public class StreamsModelCreate {
     /*
         Include native balances for each address in the webhook
      */
-    private List<club.edm.pojo.stream_vo.getNativeBalances> getNativeBalances;
+    private List<getNativeBalances> getNativeBalances;
 
     private List<AbiItem> abi;
 
-    private List<club.edm.pojo.stream_vo.advancedOptions> advancedOptions;
+    private List<advancedOptions> advancedOptions;
 
     private List<String> chainIds;
 

@@ -1,5 +1,7 @@
 package club.edm.pojo.stream_vo;
 
+import lombok.Data;
+
 import java.util.List;
 
 /**
@@ -9,6 +11,7 @@ import java.util.List;
  * @date: 2022/12/21 23:18
  **/
 
+@Data
 public class AbiItem {
 
     private Boolean anonymous;

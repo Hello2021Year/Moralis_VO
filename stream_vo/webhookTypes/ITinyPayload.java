@@ -1,5 +1,7 @@
 package club.edm.pojo.stream_vo.webhookTypes;
 
+import lombok.Data;
+
 /**
  * @ClassName: ITinyPayload
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.stream_vo.webhookTypes;
  * @date: 2022/12/21 23:26
  **/
 
+@Data
 public class ITinyPayload {
 
     private String chainId;

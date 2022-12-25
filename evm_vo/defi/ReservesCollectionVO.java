@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.defi;
 
+import lombok.Data;
+
 /**
  * @ClassName: ReservesCollectionVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.defi;
  * @date: 2022/12/12 22:31
  **/
 
+@Data
 public class ReservesCollectionVO {
 
     /*

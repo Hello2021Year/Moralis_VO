@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.storage;
 
+import lombok.Data;
+
 /**
  * @ClassName: IPFSFilePathVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.storage;
  * @date: 2022/12/12 22:43
  **/
 
+@Data
 public class IPFSFilePathVO {
 
     /*

@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.accountApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: Erc20TokenBalanceVO
  * @Description: token balances for a specific address.
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.accountApi;
  * @date: 2022/12/6 23:39
  **/
 
+@Data
 public class Erc20TokenBalanceVO {
 
     /**

@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.accountApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: Erc20TransactionVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.accountApi;
  * @date: 2022/12/7 0:06
  **/
 
+@Data
 public class Erc20TransactionVO {
 
     /**

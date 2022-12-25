@@ -1,4 +1,6 @@
 package club.edm.pojo.stream_vo.addressesTypes;
+import lombok.Data;
+
 import java.util.List;
 /**
  * @ClassName: AddressesRemove
@@ -7,6 +9,7 @@ import java.util.List;
  * @date: 2022/12/22 0:28
  **/
 
+@Data
 public class AddressesRemove {
 
     private List<String> address;

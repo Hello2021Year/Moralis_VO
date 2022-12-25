@@ -3,6 +3,7 @@ package club.edm.pojo.stream_vo.historyTypes;
 import club.edm.pojo.stream_vo.UUID;
 import club.edm.pojo.stream_vo.webhookTypes.ITinyPayload;
 import club.edm.pojo.stream_vo.webhookTypes.IWebhookUnParsed;
+import lombok.Data;
 
 /**
  * @ClassName: HistoryModel
@@ -11,6 +12,7 @@ import club.edm.pojo.stream_vo.webhookTypes.IWebhookUnParsed;
  * @date: 2022/12/21 23:32
  **/
 
+@Data
 public class HistoryModel {
 
     private UUID id;

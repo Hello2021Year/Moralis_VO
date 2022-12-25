@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.accountApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: NativeBalanceVO
  * @Description: native balance of a specific address
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.accountApi;
  * @date: 2022/12/6 23:38
  **/
 
+@Data
 public class NativeBalanceVO {
 
     /**

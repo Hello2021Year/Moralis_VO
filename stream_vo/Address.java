@@ -1,5 +1,7 @@
 package club.edm.pojo.stream_vo;
 
+import lombok.Data;
+
 /**
  * @ClassName: Address
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.stream_vo;
  * @date: 2022/12/22 0:24
  **/
 
+@Data
 public class Address {
 
     private String address;

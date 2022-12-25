@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.tokenApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: TokenItem
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.tokenApi;
  * @date: 2022/12/13 0:43
  **/
 
+@Data
 public class TokenItem {
 
     /*

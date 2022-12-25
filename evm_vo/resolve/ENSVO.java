@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.resolve;
 
+import lombok.Data;
+
 /**
  * @ClassName: ENSVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.resolve;
  * @date: 2022/12/12 22:27
  **/
 
+@Data
 public class ENSVO {
 
     /**

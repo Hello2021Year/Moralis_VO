@@ -1,6 +1,7 @@
 package club.edm.pojo.stream_vo.webhookTypes;
 
 import club.edm.pojo.stream_vo.*;
+import lombok.Data;
 
 import java.util.List;
 
@@ -11,6 +12,7 @@ import java.util.List;
  * @date: 2022/12/21 23:22
  **/
 
+@Data
 public class IWebhookUnParsed {
 
     private List<Block> block;

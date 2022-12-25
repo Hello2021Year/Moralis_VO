@@ -1,6 +1,7 @@
 package club.edm.pojo.stream_vo.streamsTypes;
 
 import club.edm.pojo.stream_vo.StreamsModel;
+import lombok.Data;
 
 import java.util.List;
 
@@ -11,6 +12,7 @@ import java.util.List;
  * @date: 2022/12/22 0:16
  **/
 
+@Data
 public class StreamsResponse {
 
     /*

@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.tokenApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: NativeErc20PriceVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.tokenApi;
  * @date: 2022/12/7 1:04
  **/
 
+@Data
 public class NativeErc20PriceVO {
 
     /*

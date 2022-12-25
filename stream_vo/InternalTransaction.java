@@ -1,5 +1,7 @@
 package club.edm.pojo.stream_vo;
 
+import lombok.Data;
+
 /**
  * @ClassName: InternalTransaction
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.stream_vo;
  * @date: 2022/12/21 23:12
  **/
 
+@Data
 public class InternalTransaction {
 
     private String from;

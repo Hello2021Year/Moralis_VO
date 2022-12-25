@@ -1,6 +1,7 @@
 package club.edm.pojo.stream_vo.usagestatsTypes;
 
 import club.edm.pojo.stream_vo.UsageStatsStreams;
+import lombok.Data;
 
 import java.util.List;
 
@@ -11,6 +12,7 @@ import java.util.List;
  * @date: 2022/12/21 23:49
  **/
 
+@Data
 public class UsageStatsModel {
 
     /*

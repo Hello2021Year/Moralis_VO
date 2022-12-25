@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.contract;
 
+import lombok.Data;
+
 /**
  * @ClassName: ContractSyncedVO
  * @Description: The return code of initiates a sync of a previously non synced Contract.
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.contract;
  * @date: 2022/12/12 22:22
  **/
 
+@Data
 public class ContractSyncedVO {
 
     /*

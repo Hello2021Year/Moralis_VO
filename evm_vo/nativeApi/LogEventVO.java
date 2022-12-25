@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.nativeApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: LogEventVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.nativeApi;
  * @date: 2022/12/12 23:33
  **/
 
+@Data
 public class LogEventVO {
 
     /*

@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.nativeApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: BlockDateVO
  * @Description: The closest block of the provided date.
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.nativeApi;
  * @date: 2022/12/6 22:26
  **/
 
+@Data
 public class BlockDateVO {
 
     /*

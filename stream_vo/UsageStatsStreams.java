@@ -1,12 +1,14 @@
 package club.edm.pojo.stream_vo;
 
+import lombok.Data;
+
 /**
  * @ClassName: UsageStatsStreams
  * @Description:
  * @author: SUN Pengliang
  * @date: 2022/12/21 23:46
  **/
-
+@Data
 public class UsageStatsStreams {
 
     /*

@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.defi;
 
+import lombok.Data;
+
 /**
  * @ClassName: DefiTokenVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.defi;
  * @date: 2022/12/12 22:34
  **/
 
+@Data
 public class DefiTokenVO {
     /*
         example: 0xdac17f958d2ee523a2206206994597c13d831ec7

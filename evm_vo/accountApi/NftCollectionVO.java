@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.accountApi;
 
+import lombok.Data;
+
 /**
  * @ClassName: NftCollectionVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.accountApi;
  * @date: 2022/12/7 0:48
  **/
 
+@Data
 public class NftCollectionVO {
 
     /**

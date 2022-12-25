@@ -1,5 +1,7 @@
 package club.edm.pojo.stream_vo;
 
+import lombok.Data;
+
 import java.util.List;
 
 /**
@@ -8,7 +10,7 @@ import java.util.List;
  * @author: SUN Pengliang
  * @date: 2022/12/21 23:09
  **/
-
+@Data
 public class Transaction {
 
     private List<TriggerOutput> triggers;

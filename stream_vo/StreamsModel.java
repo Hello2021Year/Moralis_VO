@@ -1,6 +1,5 @@
 package club.edm.pojo.stream_vo;
-
-import club.edm.pojo.stream_vo.streamTypes.UUID;
+import lombok.Data;
 
 import java.util.List;
 
@@ -10,7 +9,7 @@ import java.util.List;
  * @author: SUN Pengliang
  * @date: 2022/12/22 0:04
  **/
-
+@Data
 public class StreamsModel {
 
     /*

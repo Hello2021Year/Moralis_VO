@@ -1,5 +1,7 @@
 package club.edm.pojo.evm_vo.version;
 
+import lombok.Data;
+
 /**
  * @ClassName: EndPointWeightsVO
  * @Description:
@@ -7,6 +9,7 @@ package club.edm.pojo.evm_vo.version;
  * @date: 2022/12/12 22:46
  **/
 
+@Data
 public class EndPointWeightsVO {
 
     /*

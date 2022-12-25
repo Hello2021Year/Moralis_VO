@@ -1,8 +1,10 @@
 package club.edm.pojo.stream_vo;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 
 @AllArgsConstructor
+@Data
 public enum SettingsRegion {
     // us-east-1,us-west-2,eu-central-1,ap-southeast-1;
 

@@ -1,12 +1,14 @@
 package club.edm.pojo.stream_vo;
 
+import lombok.Data;
+
 /**
  * @ClassName: UUID
  * @Description:
  * @author: SUN Pengliang
  * @date: 2022/12/21 22:54
  **/
-
+@Data
 public class UUID {
 
     /**
