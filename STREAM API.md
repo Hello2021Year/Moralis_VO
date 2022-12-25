@@ -9,16 +9,11 @@ swagger文档地址：https://api.moralis-streams.com/api-docs/
 - /history
 
   返回historyTypes.HistoryResponse对象
-
-  ​        返回对象的嵌套关系
-
-  ​         ![image-20221225165432132](C:\Users\sunpe\AppData\Roaming\Typora\typora-user-images\image-20221225165432132.png)
+  
 
 - /history/replay/P{streamID}/{id}
 
   ​     返回： historyTypes.HistoryModel对象
-  
-  ​     ![     ](C:\Users\sunpe\AppData\Roaming\Typora\typora-user-images\image-20221225165737365.png)
 
 | 方法                             | 返回对象                     |
 | -------------------------------- | ---------------------------- |
