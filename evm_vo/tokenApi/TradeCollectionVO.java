@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.tokenApi;
+package club.edm.pojo.vo.evm_vo.tokenApi;
 
 import lombok.Data;
 

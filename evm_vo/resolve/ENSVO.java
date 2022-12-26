@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.resolve;
+package club.edm.pojo.vo.evm_vo.resolve;
 
 import lombok.Data;
 

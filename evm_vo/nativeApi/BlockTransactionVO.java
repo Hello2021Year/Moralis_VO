@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.nativeApi;
+package club.edm.pojo.vo.evm_vo.nativeApi;
 
 import lombok.Data;
 

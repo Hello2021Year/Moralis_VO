@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.storage;
+package club.edm.pojo.vo.evm_vo.storage;
 
 import lombok.Data;
 

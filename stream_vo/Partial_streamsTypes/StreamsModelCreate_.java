@@ -1,9 +1,9 @@
-package club.edm.pojo.stream_vo.Partial_streamsTypes;
+package club.edm.pojo.vo.stream_vo.Partial_streamsTypes;
 
-import club.edm.pojo.stream_vo.AbiItem;
-import club.edm.pojo.stream_vo.StreamTrigger;
-import club.edm.pojo.stream_vo.advancedOptions;
-import club.edm.pojo.stream_vo.getNativeBalances;
+import club.edm.pojo.vo.stream_vo.AbiItemVO;
+import club.edm.pojo.vo.stream_vo.StreamTriggerVO;
+import club.edm.pojo.vo.stream_vo.advancedOptionsVO;
+import club.edm.pojo.vo.stream_vo.getNativeBalancesVO;
 import lombok.Data;
 
 import java.util.List;
@@ -60,11 +60,11 @@ public class StreamsModelCreate_ {
     /*
         Include native balances for each address in the webhook
      */
-    private List<getNativeBalances> getNativeBalances;
+    private List<getNativeBalancesVO> getNativeBalances;
 
-    private List<AbiItem> abi;
+    private List<AbiItemVO> abi;
 
-    private List<advancedOptions> advancedOptions;
+    private List<advancedOptionsVO> advancedOptions;
 
     private List<String> chainIds;
 
@@ -73,6 +73,6 @@ public class StreamsModelCreate_ {
      */
     private Boolean demo;
 
-    private List<StreamTrigger> triggers;
+    private List<StreamTriggerVO> triggers;
 
 }

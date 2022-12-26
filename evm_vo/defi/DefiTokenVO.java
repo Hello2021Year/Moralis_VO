@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.defi;
+package club.edm.pojo.vo.evm_vo.defi;
 
 import lombok.Data;
 

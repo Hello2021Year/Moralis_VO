@@ -1,4 +1,4 @@
-package club.edm.pojo.stream_vo;
+package club.edm.pojo.vo.stream_vo;
 
 import lombok.Data;
 

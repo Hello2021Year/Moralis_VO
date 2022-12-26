@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.contract;
+package club.edm.pojo.vo.evm_vo.contract;
 
 import lombok.Data;
 
@@ -13,7 +13,7 @@ import lombok.Data;
 public class ContractSyncedVO {
 
     /*
-    Contract Address was triggered for index.
+    Contract AddressVO was triggered for index.
      */
     private String  code;
 }

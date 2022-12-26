@@ -1,6 +1,6 @@
-package club.edm.pojo.evm_vo.accountApi;
+package club.edm.pojo.vo.evm_vo.accountApi;
 
-import club.edm.pojo.evm_vo.nativeApi.BlockTransactionVO;
+import club.edm.pojo.vo.evm_vo.nativeApi.BlockTransactionVO;
 import lombok.Data;
 
 import java.util.List;

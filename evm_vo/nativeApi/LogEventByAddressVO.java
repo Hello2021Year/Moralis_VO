@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.nativeApi;
+package club.edm.pojo.vo.evm_vo.nativeApi;
 
 import lombok.Data;
 
@@ -51,7 +51,7 @@ public class LogEventByAddressVO {
     private String  topic3;
 
     /**
-     * The Transaction index of the log within the block
+     * The TransactionVO index of the log within the block
      */
     private Integer transactionIndex;
 

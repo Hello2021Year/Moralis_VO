@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.version;
+package club.edm.pojo.vo.evm_vo.version;
 
 import lombok.Data;
 

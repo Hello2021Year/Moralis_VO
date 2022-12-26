@@ -1,4 +1,4 @@
-package club.edm.pojo.evm_vo.nativeApi;
+package club.edm.pojo.vo.evm_vo.nativeApi;
 
 import lombok.Data;
 
@@ -15,7 +15,7 @@ public class LogEventVO {
     /*
         The transaction hash
      */
-    private String transaction_hash;
+    private String transactionHash;
 
     /*
         The address of the contract
